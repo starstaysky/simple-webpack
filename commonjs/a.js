@@ -1,0 +1,1 @@
+module.exports = "我得第一个commonjs实例";
